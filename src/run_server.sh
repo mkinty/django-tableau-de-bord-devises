@@ -1,0 +1,1 @@
+/Users/moustaphakinty/KmyProd/TableauDeBordDevise/venv/bin/python /Users/moustaphakinty/KmyProd/TableauDeBordDevise/src/manage.py runserver
